@@ -38,7 +38,7 @@ The appointment form currently demonstrates frontend functionality. Appointment 
 
 ## Live Demo
 
-Coming soon.
+[View Live Website](https://luna-beauty-nine.vercel.app/)
 
 ## Disclaimer
 
